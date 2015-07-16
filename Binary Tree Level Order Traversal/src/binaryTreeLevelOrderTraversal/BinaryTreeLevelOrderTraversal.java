@@ -1,6 +1,6 @@
 package binaryTreeLevelOrderTraversal;
 //20150706
-//2可以服用1的代码
+//2可以复用1的代码
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

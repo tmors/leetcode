@@ -1,5 +1,5 @@
 package combinations;
-//ac 2015-5-24  果然，和雷哥一起刷题速度快点，一个晚上做了一个hard 一个medium
+//ac 2015-5-24  
 //20150624 发现有点看不懂(ˉ▽ˉ；)...
 import java.util.ArrayList;
 import java.util.Iterator;
